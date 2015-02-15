@@ -171,6 +171,8 @@ February 15, 2015-Third Communication sent to AA.com
 
 This is my third attempt to get information on why I was charged nearly $600 extra to board my flight.  In response to your latest response to my messages:  I am not asking you to “second guess” the gate agent.  The charge was assigned by the computer system prior to my talking to the gate agent.  I arrived two hours early for the flight.  The charge was not related to rebooking the flight.  So instead of stonewalling or blame shifting let’s start here:  What was the charge for?  When was the charge made?  Who authorized the charge? To assist you in this I have conveniently compiled the previous correspondence with AA in this public document: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md  Please read this completely and research you answer carefully before responding-but I will expect a response within 24 hours.  Please also send me a phone number the person who responds so we can talk directly. 
 
+Reference numbers for previous correspondence: AA Ref#1-2920444650; AA Ref#1-2935112143
+
                                                        
 
 
