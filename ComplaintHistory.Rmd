@@ -22,7 +22,8 @@ The Story
 * Upon return to the U.S. I have attempted to protest the charge but am having great difficulty getting any information from American Airlines.
 * American Airlines has yet to tell me what the charge was for, when the penalty was incurred, or who authorized the charge.
 * It is very difficult to contact American Airlines.  There is no direct number to call.  The only option is to use a form on their website that does not keep track history and limits user input to 1500 characters.  Therefore I am creating this document to keep track of the interactions.
-* This document is available here: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md
+* Trying to deal with American Airlines Custormer Relations is frustrating and somewhat kafakesque.  As you can see from the correspondence below each attempt to get an answer from American Airlines results in blame shifting and obfuscation. It would be nice if they could just tell me what the charge was for and why they will not refund it. I have the impression that their strategy is to continue to misdirect inquiries until the customer just give up.
+* This document is available here: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md or http://tinyurl.com/ksmblhv
 
 Correspondence
 -------------------------
@@ -30,7 +31,7 @@ Below is the Correspondence with American Airlines by date.
 
 February 10, 2015-First Communication sent to AA.com
 -------------------------
-#My message to AA.com
+#My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
 On Feb. 7 I attempted to use the AA online check in for a return flight from Santiago Chile.  The online check in I was asked me to supply some additional information such as my home address and my middle name.  The online checkin was unsuccessful and was told I need to check in at the airport.  When I arrived at the airport I was told that since I added my middle name to the ticket I was to be charged an additional $592.12 to reissue the ticket. The online check in did not warn me that supplying additional information that it requested would make expensive changes to my ticket nor did it warn me that the charges would have to be paid in order to use my ticket.   Under protest I agreed to pay with the understanding I could protest the charges by connecting to AA.com with the inflight wireless (a service that was not functioning on my flight).  Unfortunately, it took over an hour for the ticket agent to figure out how to charge a debit card so my flilght was missed and I was put on a later flight.
 
 I protest the charge of $592.12 that was forcefully extracted from me in order to complete the return portion of my trip.  In addition to being an unreasonable and unethical charge the whole incident  caused me considerable grief and hardship.  Please let me know how American Airlines will be refunding me this charge. 
@@ -146,8 +147,6 @@ American Airlines
 
 AA Ref#1-2935112143
 
-                                                       
-
 The information in this email is confidential and is intended solely for the addressee(s); access to anyone else is unauthorized. If this message has been sent to you in error, do not review, disseminate, distribute or copy it. If you are not the intended recipient, please delete this email from your email system.
 
 
@@ -162,14 +161,17 @@ PROCESS:Response:
 CONTACTID:1-1CAR9IF:
 
 
-                                         
-
-
- 
-
-
- 
 NOTICE: This email and any attachments are for the exclusive and confidential use of the intended recipient(s). If you are not an intended recipient, please do not read, distribute, or take action in reliance upon this message. If you have received this in error, please notify me immediately by return email and promptly delete this message and its attachments from your computer.
+
+February 15, 2015-Third Communication sent to AA.com
+-------------------------
+#My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
+
+
+
+This is my third attempt to get information on why I was charged nearly $600 extra to board my flight.  In response to your latest response to my messages:  I am not asking you to “second guess” the gate agent.  The charge was assigned by the computer system prior to my talking to the gate agent.  I arrived two hours early for the flight.  The charge was not related to rebooking the flight.  So instead of stonewalling or blame shifting let’s start here:  What was the charge for?  When was the charge made?  Who authorized the charge? To assist you in this I have conveniently compiled the previous correspondence with AA in this public document: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md  Please read this completely and research you answer carefully before responding-but I will expect a response within 24 hours.  Please also send me a phone number the person who responds so we can talk directly. 
+
+                                                       
 
 
 
