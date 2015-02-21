@@ -29,14 +29,14 @@ Correspondence
 -------------------------
 Below is the Correspondence with American Airlines by date.
 
-February 10, 2015-First Communication sent to AA.com
+**February 10, 2015-First Communication sent to AA.com**
 -------------------------
 #My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
 On Feb. 7 I attempted to use the AA online check in for a return flight from Santiago Chile.  The online check in I was asked me to supply some additional information such as my home address and my middle name.  The online checkin was unsuccessful and was told I need to check in at the airport.  When I arrived at the airport I was told that since I added my middle name to the ticket I was to be charged an additional $592.12 to reissue the ticket. The online check in did not warn me that supplying additional information that it requested would make expensive changes to my ticket nor did it warn me that the charges would have to be paid in order to use my ticket.   Under protest I agreed to pay with the understanding I could protest the charges by connecting to AA.com with the inflight wireless (a service that was not functioning on my flight).  Unfortunately, it took over an hour for the ticket agent to figure out how to charge a debit card so my flilght was missed and I was put on a later flight.
 
 I protest the charge of $592.12 that was forcefully extracted from me in order to complete the return portion of my trip.  In addition to being an unreasonable and unethical charge the whole incident  caused me considerable grief and hardship.  Please let me know how American Airlines will be refunding me this charge. 
 
-#AA.com response
+**AA.com response**
 
 February 12, 2015
 Dear Dr. Milstead:
@@ -59,7 +59,7 @@ Customer Relations
 American Airlines
 AA Ref#1-2920444650 
 
-February 12, 2015-My reply to American Airlines by Fax
+**February 12, 2015-My reply to American Airlines by Fax**
 -------------------------
 #My fax to AA.com
 
@@ -113,7 +113,7 @@ Here is what I’d like to know.
 I will expect a response by email within 24 hours.
 William Bryan Milstead
 
-#AA.com response
+**AA.com response**
 February  14, 2015
 
 
@@ -163,7 +163,7 @@ CONTACTID:1-1CAR9IF:
 
 NOTICE: This email and any attachments are for the exclusive and confidential use of the intended recipient(s). If you are not an intended recipient, please do not read, distribute, or take action in reliance upon this message. If you have received this in error, please notify me immediately by return email and promptly delete this message and its attachments from your computer.
 
-February 15, 2015-Third Communication sent to AA.com
+**February 15, 2015-Third Communication sent to AA.com**
 -------------------------
 #My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
 
@@ -172,6 +172,42 @@ February 15, 2015-Third Communication sent to AA.com
 This is my third attempt to get information on why I was charged nearly $600 extra to board my flight.  In response to your latest response to my messages:  I am not asking you to “second guess” the gate agent.  The charge was assigned by the computer system prior to my talking to the gate agent.  I arrived two hours early for the flight.  The charge was not related to rebooking the flight.  So instead of stonewalling or blame shifting let’s start here:  What was the charge for?  When was the charge made?  Who authorized the charge? To assist you in this I have conveniently compiled the previous correspondence with AA in this public document: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md  Please read this completely and research you answer carefully before responding-but I will expect a response within 24 hours.  Please also send me a phone number the person who responds so we can talk directly. 
 
 Reference numbers for previous correspondence: AA Ref#1-2920444650; AA Ref#1-2935112143
+
+
+**February 22, 2015-Fourth Communication sent to AA.com**
+-------------------------
+#My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
+
+I am resending the message I sent you on 2/15/15 as I did not receive a reply from you.  Please do me the courtesy of responding this time.  Please also advise me what other options are available to me.  Do I contact the better business bureau?  Do I contact my lawyer?  I feel you are not complying with you legal and ethical obligations.
+
+
+Copy of message from 2/15/15
+This is my third attempt to get information on why I was charged nearly $600 extra to board my flight.  In response to your latest response to my messages:  I am not asking you to “second guess” the gate agent.  The charge was assigned by the computer system prior to my talking to the gate agent.  I arrived two hours early for the flight.  The charge was not related to rebooking the flight.  So instead of stonewalling or blame shifting let’s start here:  What was the charge for?  When was the charge made?  Who authorized the charge? To assist you in this I have conveniently compiled the previous correspondence with AA in this public document: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md  Please read this completely and research you answer carefully before responding-but I will expect a response within 24 hours.  Please also send me a phone number the person who responds so we can talk directly. 
+
+Reference numbers for previous correspondence: AA Ref#1-2920444650; AA Ref#1-2935112143
+
+**AA receipt of message response 2/21/15**
+-------------------------
+
+February 21, 2015
+
+Dear Dr. Milstead:
+
+Thank you for contacting American Airlines Customer Relations. This is an automated acknowledgment, giving me a chance to share with you right away what is happening with your message.
+
+First, while this email is not intended as a response to the remarks you just submitted, it does confirm we have received your comments and have assigned a reference number, which you see below.
+
+Next, we would like to reassure you that we appreciate all feedback. We happily share compliments with the employees who earn them. Please rest assured that we are also committed to answering every complaint we receive, and a representative from our department will get back to you as soon as possible. The Customer Relations team are eager to resolve issues that arise in the hope of seeing you flying American Airlines again and again.
+
+Last, let me clarify that if you inquired about an upcoming or current trip, we ask that you contact our Reservations staff, who are available 24 hours a day and will be in a better position to answer questions about your trip. In the U.S., the toll-free number is 800-433-7300. Outside the U.S., please refer to "Worldwide Reservations Phone Numbers" listed on aa.com. Similarly, questions about using or finding information on aa.com can be more directly addressed at www.aa.com/webservices.
+
+Thank you for flying American Airlines.
+
+Sean Bentel
+Customer Relations
+American Airlines
+
+Your Reference number to this request: 1-2988283168
 
                                                        
 
