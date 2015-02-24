@@ -221,7 +221,7 @@ American Airlines Customer Relations
 
 American Airlines: My last two attempts to contact your office from  your website (http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations) on Feb. 15 and Feb. 21 have not been answered so I am faxing this message to you and hope that someone in your office will have the courtesy to reply.  I am trying to get information on a spurious charge that no one at American Airlines seems to be able to explain.  Instead of rehashing the entire story again please see the following pages for a history of previous communications. All of these communications are also archived online at https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md or http://tinyurl.com/ksmblhv.
 
-Please provide a prompt and well researched response by email to willbmisled@gmail.com.  This will demonstrate American Airlines interest in meeting its legal and ethical responsibilites in this matter.  A direct phone number or email address of an agent who can resolve this situation will also be appreciated.
+Please provide a prompt and well researched response by email to willbmisled@gmail.com.  This will demonstrate American Airlines interest in meeting its legal and ethical responsibilities in this matter.  A direct phone number or email address of an agent who can resolve this situation will also be appreciated.
 
 Thank you.
 
