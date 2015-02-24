@@ -16,7 +16,7 @@ The Story
 * The morning of my flight I attempted to use the American Airlines Online Check in service and was told I need to check in at the airport
 * I arrived at the airport two hours before my flight and attempted to check in at the check in kiosk and was told to see an agent.
 * When I saw the agent she told me that I had a penalty of U.S. $592.12 (371.200 pesos Chilenos) in order to board the flight.
-* The agent could not explain what the charge was for nor could her supervisor, Luis Gajardo.
+* The agent could not explain what the charge was for nor could her supervisor, Luis Gajardo.  The only thing they knew was that the charge was posted to my account before I arrived at the airport.
 * I requested that Luis Gajardo call the office for an explanation but he refused saying that he was the supervisor and would make no calls and that if I wanted to take my flight I would need to pay the penalty.
 * In order not to miss my flight I agreed to pay but then the agent and later supervisor had difficulties in charging my debit card.  It took the Luis Gajardo over an hour to finally get the charge on my card during which time my flight left and I was booked on a later flight-thus losing my connections.
 * Upon return to the U.S. I have attempted to protest the charge but am having great difficulty getting any information from American Airlines.
@@ -208,6 +208,28 @@ Customer Relations
 American Airlines
 
 Your Reference number to this request: 1-2988283168
+
+**February 24, 2015-An attempt to get American Airlines to respond to a Fax**
+-------------------------
+#My fax to AA.com
+
+February 24, 2015
+
+Fax: 480-693-2300
+
+American Airlines Customer Relations
+
+American Airlines: My last two attempts to contact your office from  your website (http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations) on Feb. 15 and Feb. 21 have not been answered so I am faxing this message to you and hope that someone in your office will have the courtesy to reply.  I am trying to get information on a spurious charge that no one at American Airlines seems to be able to explain.  Instead of rehashing the entire story again please see the following pages for a history of previous communications. All of these communications are also archived online at https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md or http://tinyurl.com/ksmblhv.
+
+Please provide a prompt and well researched response by email to willbmisled@gmail.com.  This will demonstrate American Airlines interest in meeting its legal and ethical responsibilites in this matter.  A direct phone number or email address of an agent who can resolve this situation will also be appreciated.
+
+Thank you.
+
+William Milstead
+willbmisled@gmail.com
+401-267-8789
+
+ 
 
                                                        
 
