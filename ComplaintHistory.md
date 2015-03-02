@@ -1,7 +1,7 @@
 ---
 title: "Complaint"
 author: "William Bryan Milstead"
-date: "Sunday, February 15, 2015"
+date: "March 2, 2015"
 output: html_document
 ---
 <!---
@@ -228,6 +228,38 @@ Thank you.
 William Milstead
 willbmisled@gmail.com
 401-267-8789
+
+**February 15, 2015-6th attempt to communicate with AA**
+-------------------------
+#My message to AA.com on http://www.aa.com/contactAA/viewEmailFormAccess.do?eventName=customerRelations
+
+American Airlines:  I have not received any responses to my messages of Feb. 15 & Feb. 21 posted to this websie.  Nor did I receive a response to a fax sent to 480-693-2300 on February 24, 2015.  All of my attempts to communicate with your office are archived online at: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md. Please refer to this document for the history of my contact with you and a summary of what happened.
+You have an obligation to explain the $600 dollar charge I was forced to pay in the Santiago Chile (SCL) Airport on February 7, 2015.  Here is the way this looks to me:
+On February 7th I arrived at the Santiago airport to claim the return portion of my flight on American Airlines.  I was told that a penalty of $600 was attached to the ticket.  This charge originated somewhere in you corporate offices sometime before my arrival at the airport.  Neither the agent nor her supervisor could explain the origin of the charge nor would they allow me to board my flight without paying it.  To me this is extortion.  I was told I could contest the charge on my return.  My attempts to find out what the charge was for, who authorized it, and how to contest it have been met with silence, stonewalling, misdirection, and blame shifting.  Could you just stop wasting my time and give me the details. Once again I ask that you research this issue, send me a clear explanation and provide me with the contact details of a person who can clear this up.
+
+**AA receipt of message response 3/2/15**
+-------------------------
+
+American Airlines
+March 02, 2015
+
+Dear Dr. Milstead:
+
+Thank you for contacting American Airlines Customer Relations. This is an automated acknowledgment, giving me a chance to share with you right away what is happening with your message.
+
+First, while this email is not intended as a response to the remarks you just submitted, it does confirm we have received your comments and have assigned a reference number, which you see below.
+
+Next, we would like to reassure you that we appreciate all feedback. We happily share compliments with the employees who earn them. Please rest assured that we are also committed to answering every complaint we receive, and a representative from our department will get back to you as soon as possible. The Customer Relations team are eager to resolve issues that arise in the hope of seeing you flying American Airlines again and again.
+
+Last, let me clarify that if you inquired about an upcoming or current trip, we ask that you contact our Reservations staff, who are available 24 hours a day and will be in a better position to answer questions about your trip. In the U.S., the toll-free number is 800-433-7300. Outside the U.S., please refer to "Worldwide Reservations Phone Numbers" listed on aa.com. Similarly, questions about using or finding information on aa.com can be more directly addressed at www.aa.com/webservices.
+
+Thank you for flying American Airlines.
+
+Sean Bentel
+Customer Relations
+American Airlines
+
+Your Reference number to this request: 1-3039764319
 
  
 
