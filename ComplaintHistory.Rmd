@@ -261,6 +261,66 @@ American Airlines
 
 Your Reference number to this request: 1-3039764319
 
+**AA response 3/4/15**
+-------------------------
+
+March 4, 2015
+
+
+
+Dear Dr. Milstead:
+
+
+Since Customer Relations does not handle these types of requests, we've forwarded your request to personnel in our accounting office. They are the specialists who review such requests. They will do so and be in touch with you directly.
+
+In the meantime, should you need to contact them, the address is:
+
+American Airlines
+
+
+Passenger Refunds
+
+
+4000 E Sky Harbor Blvd.
+
+
+Phoenix , AZ 85034
+
+Fax : 1-800-892-3447 or 480-693-2759
+
+Dr. Milstead, thank you for your patience while your refund request is being reviewed.
+
+
+
+Sincerely,
+
+
+
+
+Teri Wiese
+
+Customer Relations
+
+American Airlines
+
+
+AA Ref#1-2988283168
+
+                                                       
+
+The information in this email is confidential and is intended solely for the addressee(s); access to anyone else is unauthorized. If this message has been sent to you in error, do not review, disseminate, distribute or copy it. If you are not the intended recipient, please delete this email from your email system.
+
+
+RESPCONID: 1-1EHW79B:
+
+RESPID:1-1EHW78Z:
+
+TID:1-1DF5A1S:
+
+PROCESS:Response:
+
+CONTACTID:1-1CAR9IF:
+
  
 
                                                        
