@@ -321,9 +321,34 @@ PROCESS:Response:
 
 CONTACTID:1-1CAR9IF:
 
- 
+**March 25, 2015-First Communication (Fax) sent to AA.com Passenger Refunds**
+-------------------------
 
-                                                       
+March 25, 2015
+
+American Airlines
+Passenger Refunds
+Fax: 1-800-892-3447 
+
+Dear American Airlines: on Feb. 8, 2015 I was charged a penalty of $600 to board a return flight to the U.S. from Santiago Chile.  Since Feb. 10, 2015, I have been attempting to find out why I was charged the penalty and have requested a refund.  Customer relations has been unable to provide a satisfactory answer and transferred my request to your department. A summary of what occurred and my previous communications with AA are appended to this document and also available as a public document on: https://github.com/willbmisled/AmericanAirlines/blob/master/ComplaintHistory.md.
+
+“March 4, I received the following email from AA customer relations:
+
+Dear Dr. Milstead: Since Customer Relations does not handle these types of requests, we've forwarded your request to personnel in our accounting office. They are the specialists who review such requests. They will do so and be in touch with you directly. In the meantime, should you need to contact them, the address is: American Airlines, Passenger Refunds, 4000 E Sky Harbor Blvd., Phoenix , AZ 85034, Fax : 1-800-892-3447 or 480-693-2759.
+
+Dr. Milstead, thank you for your patience while your refund request is being reviewed.
+
+Sincerely,
+Teri Wiese
+Customer Relations
+American Airlines
+AA Ref#1-2988283168”
+
+As requested, I have been patient but since I have not heard anything from your office in three weeks I am now writing to request an update.  Hopefully, someone in your office will be able to resolve this situation quickly and satisfactorily.  I will appreciate it if you can let me know the status of the request, the name and phone number of the person assigned to the case, and a date that I can expect to receive a well-researched account of what happened and (hopefully) a refund check.
+
+Sincerely,
 
 
-
+William Bryan Milstead
+willbmisled@gmail.com
+401-267-8789
